@@ -1,6 +1,6 @@
 bootra1n: Linux + checkra1n, on USB
 ===================================
-k24a1's attempt at updating this for later versions of checkra1n (nothing done yet)
+k24a1's attempt at updating this for later versions of checkra1n (nothing done yet)<br>
 `cant i just update /usr/bin/checkra1n and call it a day`
 
 You will need:
