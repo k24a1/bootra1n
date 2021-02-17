@@ -1,6 +1,7 @@
 bootra1n: Linux + checkra1n, on USB
 ===================================
-Just enough Linux to boot checkra1n on any PC.
+k24a1's attempt at updating this for later versions of checkra1n (nothing done yet)
+`cant i just update /usr/bin/checkra1n and call it a day`
 
 You will need:
 - An USB flash drive (at least 512MB or larger)
